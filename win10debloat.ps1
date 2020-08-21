@@ -14,13 +14,13 @@
 #
 #     > powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://git.io/JJ8R4')"
 #
-#	Chris Titus Additions:
+#	My Mods:
 #
 #	- Dark Mode
 #	- One Command to launch and run
 #	- Chocolatey Install
 #	- O&O Shutup10 CFG and Run
-#	- Added Install Programs
+#	- Added Install Programs (*Removed)
 #	- Added Debloat Microsoft Store Apps
 #
 ##########
@@ -30,11 +30,11 @@ $tweaks = @(
 	"RequireAdmin",
 
 	### External Program Setup
-	"InstallTitusProgs", #REQUIRED FOR OTHER PROGRAM INSTALLS!
-	"InstallAdobe",
-	"Install7Zip",
-	"InstallNotepadplusplus",
-	"InstallMediaPlayerClassic",
+	#"InstallTitusProgs", #REQUIRED FOR OTHER PROGRAM INSTALLS!
+	#"InstallAdobe",
+	#"Install7Zip",
+	#"InstallNotepadplusplus",
+	#"InstallMediaPlayerClassic",
 
 	### Windows Apps
 	"DebloatAll",
