@@ -7,15 +7,16 @@ This is the Ultimate Windows 10 Script from a creation from multiple debloat scr
 
 - Dark Mode
 - One Command to launch and run
-- Chocolatey Install
 - O&O Shutup10 CFG and Run
-- Added Install Programs
 - Added Debloat Microsoft Store Apps
 
 ## Modifications
 I encourage people to fork this project and comment out things they don't like! Here is a list of normal things people change:
 - Uninstalling OneDrive (This is on in my script)
 - Installing Adobe, Chocolatey, Notepad++, MPC-HC, and 7-Zip
+
+I personally run the script with debloat only and install any additional programs I need later
+WARNING: Strongly recommended to setup a strong password before running this script.
 
 Comment any thing you don't want out... Example:
 
