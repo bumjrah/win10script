@@ -18,7 +18,7 @@
 #
 #	- Dark Mode
 #	- One Command to launch and run
-#	- Chocolatey Install
+#	- ##removed Chocolatey Install
 #	- O&O Shutup10 CFG and Run
 #	- Added Install Programs (*Removed)
 #	- Added Debloat Microsoft Store Apps
@@ -158,14 +158,14 @@ $tweaks = @(
 	# "UninstallWindowsStore",      # "InstallWindowsStore",
 	# "DisableXboxFeatures",          # "EnableXboxFeatures",
 	"DisableAdobeFlash",            # "EnableAdobeFlash",
-	"InstallMediaPlayer", 		# "UninstallMediaPlayer",
+	#"InstallMediaPlayer", 		# "UninstallMediaPlayer",
 	"UninstallInternetExplorer",  # "InstallInternetExplorer",
 	"UninstallWorkFolders",       # "InstallWorkFolders",
 	"InstallLinuxSubsystem",      # "UninstallLinuxSubsystem",
 	# "InstallHyperV",              # "UninstallHyperV",
 	"SetPhotoViewerAssociation",    # "UnsetPhotoViewerAssociation",
 	"AddPhotoViewerOpenWith",       # "RemovePhotoViewerOpenWith",
-	"InstallPDFPrinter",		# "UninstallPDFPrinter",
+	#"InstallPDFPrinter",		# "UninstallPDFPrinter",
 	# "UninstallXPSPrinter",          # "InstallXPSPrinter",
 	# "RemoveFaxPrinter",             # "AddFaxPrinter",
 
