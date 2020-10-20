@@ -2,6 +2,8 @@
 I personally run the script with debloat only and install any additional programs I need later
 
 WARNING: Strongly recommended to setup a strong password before running this script.
+Powershell command: powershell -nop -c "iex(New-Object Net.WebClient).DownloadString('https://raw.githubusercontent.com/bumjrah/win10script/master/win10debloat.ps1')"
+
 
 # win10script
 This is the Ultimate Windows 10 Script from a creation from multiple debloat scripts and gists from github. 
